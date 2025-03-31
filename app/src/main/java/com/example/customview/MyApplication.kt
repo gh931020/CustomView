@@ -10,5 +10,6 @@ import android.app.Application
 class MyApplication: Application() {
     override fun onCreate() {
         super.onCreate()
+        // 测试修改文件是否会被加密
     }
 }
